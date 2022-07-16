@@ -1,0 +1,14 @@
+.mega-div {
+    height: 500px;
+    width: 400px;
+    border: 5px solid black;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.mango-div {
+    height: 500px;
+    width: 400px;
+    border: 5px solid brown;
+    overflow: scroll;
+}
